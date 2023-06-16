@@ -1,0 +1,11 @@
+{
+  "name": "beadando",
+  "version": "1.0.0",
+  "description": "Beadando",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd"
+  },
+  "author": "Bély Zsolt",
+  "license": "ISC"
+}
